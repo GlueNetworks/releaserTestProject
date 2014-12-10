@@ -1,0 +1,8 @@
+{
+  "name": "releaserTestProject",
+  "private": true,
+  "dependencies": {
+    "testmodule": "git://github.com/GlueNetworks/releasertestmodule#0.x.1"
+  },
+  "version": "1.0.0"
+}
